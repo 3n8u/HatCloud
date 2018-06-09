@@ -20,4 +20,3 @@ ruby hatcloud.rb --byp seu site
 
 #Screenshot 
 https://camo.githubusercontent.com/c2fa6f2a7435d1d9b521ac25950d62a8a911a7de/68747470733a2f2f692e696d6775722e636f6d2f694232653041552e706e67
-© 2018 GitHub, Inc.
